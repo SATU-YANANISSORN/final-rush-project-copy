@@ -1,6 +1,5 @@
 .topnav {
   position: fixed;
-  /* ทำให้เมนูอยู่ด้านบนตลอด */
   overflow: hidden;
   background: transparent;
   top: 20px;
